@@ -14,3 +14,9 @@ This is simple example of developing two projects, A and B and we evaluate four 
 As we can see, the alternative 3 has highest expected value, as it take advantage of learning and flexibility embedded into sequential decision making.
 
 ![Cover Image](img/dt.png)
+
+**2) Least Square Monte Carlo for Option Pricing [Link to Codes](https://colab.research.google.com/drive/1ZQhff_7Qo4rSqvIZOYhZzkZBu_x21rQt?usp=sharing)**
+
+This code will implement the Least-Squares Monte Carlo for valuing American Option. 
+
+The code will replicate the Table1 of the [Longstaff and Schwartz (2001)](https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf) where the underlying price is GBM model.
