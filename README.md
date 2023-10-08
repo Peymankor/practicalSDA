@@ -3,7 +3,7 @@
 
 ![Cover Image](img/sda.png)
 
-This is repository to gather and share hands on example of  Sequential Decision Analytics with Python.
+This is repository to gather and share hands on example of  Sequential Decision Analytics with Python. This collective effort of (DDA research group)[https://bratvoldlab.github.io/website/] at [University of Stavnger](https://www.uis.no/en), Supervised by Professor (Reidar Brumer Bratvold)[https://www.uis.no/nb/profile/reidar-brumer-bratvold].
 
 ## Hands-On Examples:
 
