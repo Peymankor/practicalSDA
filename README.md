@@ -17,6 +17,9 @@ As we can see, the alternative 3 has highest expected value, as it take advantag
 
 **2) Least Square Monte Carlo for Option Pricing [Link to Codes](https://colab.research.google.com/drive/16u-W2rwk_kYl3uqce5N67x08W3kPiKQF?usp=sharing)**
 
+![Cover Image](img/lsmresults.png)
+
+
 This code will implement the Least-Squares Monte Carlo for valuing American Option. 
 
 The code will replicate the Table1 of the [Longstaff and Schwartz (2001)](https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf) where the underlying price is GBM model.
