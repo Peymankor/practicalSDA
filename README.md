@@ -15,7 +15,7 @@ As we can see, the alternative 3 has highest expected value, as it take advantag
 
 ![Cover Image](img/dt.png)
 
-**2) Least Square Monte Carlo for Option Pricing [Link to Codes](https://colab.research.google.com/drive/1ZQhff_7Qo4rSqvIZOYhZzkZBu_x21rQt?usp=sharing)**
+**2) Least Square Monte Carlo for Option Pricing [Link to Codes](https://colab.research.google.com/drive/16u-W2rwk_kYl3uqce5N67x08W3kPiKQF?usp=sharing)**
 
 This code will implement the Least-Squares Monte Carlo for valuing American Option. 
 
