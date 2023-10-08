@@ -7,7 +7,7 @@ This is repository to gather and share hands on example of  Sequential Decision 
 
 ## Hands-On Examples:
 
-**1) A simple Example of Sequential Decision Making [Link To Codes]([URL](https://colab.research.google.com/drive/1ZQhff_7Qo4rSqvIZOYhZzkZBu_x21rQt?usp=sharing))**
+**1) A simple Example of Sequential Decision Making [Link to Codes](https://colab.research.google.com/drive/1ZQhff_7Qo4rSqvIZOYhZzkZBu_x21rQt?usp=sharing)**
 
 This is simple example of developing two projects, A and B and we evaluate four different alternatives. 1) Doing only Project A, 2) Doing A and B simultaneously, 3) Doing A and B Sequentially 4) Do Nothing.
 
